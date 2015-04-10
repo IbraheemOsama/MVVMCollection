@@ -22,7 +22,7 @@ namespace MVVMHandler
         /// New item of type T
         /// </param>
         /// <returns></returns>
-        Task Add<T>(object itemToAdd) where T : new();
+        Task Add<T>(T itemToAdd) where T : new();
 
         /// <summary>
         /// Remove item from the model repository 
@@ -30,7 +30,7 @@ namespace MVVMHandler
         /// <typeparam name="T"></typeparam>
         /// <param name="itemToDelete"></param>
         /// <returns></returns>
-        Task Remove<T>(object itemToDelete) where T : new();
+        Task Remove<T>(T itemToDelete) where T : new();
 
         /// <summary>
         /// Retrieve all items of type T from the model repository

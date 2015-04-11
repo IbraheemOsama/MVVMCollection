@@ -67,6 +67,10 @@ and to change the settings all you have to do is passing MVVMCollectionSettings 
             CompanyMVVMCollection = SQLiteCollectionFacotry.NewMVVMCollection<Company>(settings);
             
 
+# Install Nuget Package
+
+Install-Package MVVMHandler.dll
+
 # Samples
 You'll find to samples
 

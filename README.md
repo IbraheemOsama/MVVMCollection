@@ -67,8 +67,16 @@ and to change the settings all you have to do is passing MVVMCollectionSettings 
             CompanyMVVMCollection = SQLiteCollectionFacotry.NewMVVMCollection<Company>(settings);
             
 
+# Samples
+You'll find to samples
+
+1) SQLite Sample with MVVMCollection
+
+2) Microsoft Azure Mobile Service with MVVMCollection
+
 # Missing Features
 1) IOC Container for registering and resolving MVVMCollections of a certain Model Type
+
 2) Any great feature that you see it needs to be implemented :)
 
 # Motivation
@@ -77,5 +85,6 @@ I think it worth your effort to make a lot of developers happier, why MVVM Colle
 # Contributors
 
 1) Ibraheem Osama Mohamed
+
 2) MVVM Collection can't wait to see your name is written here :)
 

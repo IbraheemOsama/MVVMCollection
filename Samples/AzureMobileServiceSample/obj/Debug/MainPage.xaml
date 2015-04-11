@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="AzureMobileServiceSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AzureMobileServiceSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel>
+                <TextBlock HorizontalAlignment="Center" Margin="10" TextWrapping="Wrap" Text="Company" FontSize="22" VerticalAlignment="Top" Height="27"/>
+                <TextBox Name="CompanyNameTextbox" Margin="10" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='2' Content="Add Company" Margin="10" Name="AddCompanyButton" HorizontalAlignment="Center" VerticalAlignment="Top"                               />
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <TextBlock HorizontalAlignment="Center" Margin="10" TextWrapping="Wrap" Text="Companies" FontSize="22" VerticalAlignment="Top" Height="27"/>
+                <ComboBox ItemsSource="{Binding}" Name="DeveloperCompanyComboBox" Margin="10">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Name}"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <Button x:ConnectionId='1' Content="Remove Country" Margin="10" Name="RemoveCompanyButton" HorizontalAlignment="Center" VerticalAlignment="Top"                                  />
+            </StackPanel>
+            <StackPanel Grid.Column="2">
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Page>
+

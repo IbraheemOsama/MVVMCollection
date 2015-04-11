@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IBRAHEEMOSAMA</Machine>
+    <WindowsUser>ibraheem</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>df796cd1-e468-4ff8-a345-75ea2bc0608f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1D8825FCA665928717084AAB02FFFD1E3CCC1364E172D638B8B1F238EB1F7BEF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df796cd1-e468-4ff8-a345-75ea2bc0608f_1.0.0.0_neutral__nq0j9v6z7gj1r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df796cd1-e468-4ff8-a345-75ea2bc0608f_nq0j9v6z7gj1r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df796cd1-e468-4ff8-a345-75ea2bc0608f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ibraheem</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-11T07:43:23.667</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\SQLiteSample.exe">
+      <PackagePath>SQLiteSample.exe</PackagePath>
+      <Modified>2015-04-11T07:50:58.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\MVVMHandler\MVVMHandler\bin\Debug\MVVMHandler.dll">
+      <PackagePath>MVVMHandler.dll</PackagePath>
+      <Modified>2015-04-10T21:15:32.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.2\Redist\Debug\x64\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2014-01-22T13:16:27.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-11T07:43:19.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-11T07:43:19.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\SQLiteSample.xr.xml">
+      <PackagePath>SQLiteSample.xr.xml</PackagePath>
+      <Modified>2015-04-11T07:43:18.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-11T07:43:22.854</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

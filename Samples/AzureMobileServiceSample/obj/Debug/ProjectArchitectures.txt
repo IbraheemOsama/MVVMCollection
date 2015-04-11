@@ -1,0 +1,1 @@
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\AzureMobileServiceSample\AzureMobileServiceSample.csproj;neutral

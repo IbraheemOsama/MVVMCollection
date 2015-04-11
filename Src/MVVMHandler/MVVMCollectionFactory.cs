@@ -15,10 +15,14 @@ namespace MVVMHandler
     /// </summary>
     public class MVVMCollectionFactory<X> where X : IModelRepository
     {
-        private IModelRepository modelRepository;
+        private IModelRepository _modelRepository;
         public MVVMCollectionFactory()
         {
-            modelRepository = Activator.CreateInstance<X>();
+            _modelRepository = Activator.CreateInstance<X>();
+        }
+        public MVVMCollectionFactory(MVVMCollectionSettings settings)
+        {
+            _modelRepository = Activator.CreateInstance<X>();
         }
         /// <summary>
         /// Generate new MVVM Collection with default settings Add Model first then UpdateView
@@ -33,7 +37,7 @@ namespace MVVMHandler
         public MVVMCollection<T> NewMVVMCollection<T>()
             where T : new()
         {
-            return new MVVMCollection<T>(modelRepository);
+            return new MVVMCollection<T>(_modelRepository);
         }
 
         /// <summary>
@@ -52,7 +56,7 @@ namespace MVVMHandler
         public MVVMCollection<T> NewMVVMCollection<T>(MVVMCollectionSettings settings)
             where T : new()
         {
-            return new MVVMCollection<T>(modelRepository, settings);
+            return new MVVMCollection<T>(_modelRepository, settings);
         }
     }
 }

@@ -30,6 +30,8 @@ namespace SQLiteSample
         public MainPage()
         {
             this.InitializeComponent();
+            
+
             SQLiteCollectionFacotry = new MVVMCollectionFactory<SQLiteMVVMRepository>();
             this.Loaded += MainPage_Loaded;
         }
@@ -37,7 +39,8 @@ namespace SQLiteSample
         async void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
             await SQLiteSample.Services.DBServices.CreateTables();
-            CompanyMVVMCollection = SQLiteCollectionFacotry.NewMVVMCollection<Company>();
+            MVVMCollectionSettings settings = new MVVMCollectionSettings(MVVMCollectionActionSettings.UpdateViewFirst);
+            CompanyMVVMCollection = SQLiteCollectionFacotry.NewMVVMCollection<Company>(settings);
             DeveloperCompanyComboBox.ItemsSource = await CompanyMVVMCollection.LoadAllModelData();
             //DeveloperCompanyComboBox.ItemsSource = await CompanyMVVMCollection.Where(i => i.Name == "test");
         }

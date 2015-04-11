@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>df796cd1-e468-4ff8-a345-75ea2bc0608f</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>1D8825FCA665928717084AAB02FFFD1E3CCC1364E172D638B8B1F238EB1F7BEF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>df796cd1-e468-4ff8-a345-75ea2bc0608f_1.0.0.0_neutral__nq0j9v6z7gj1r</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>df796cd1-e468-4ff8-a345-75ea2bc0608f_nq0j9v6z7gj1r!App</RegisteredUserModeAppID>
@@ -17,60 +17,60 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-11T07:43:23.667</Modified>
+      <Modified>2015-04-11T10:03:51.514</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\SQLiteSample.exe">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\SQLiteSample.exe">
       <PackagePath>SQLiteSample.exe</PackagePath>
-      <Modified>2015-04-11T07:50:58.196</Modified>
+      <Modified>2015-04-11T10:03:47.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\MVVMHandler\MVVMHandler\bin\Debug\MVVMHandler.dll">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\packages\MVVMHandler.dll.1.0.2\lib\NETCore45\MVVMHandler.dll">
       <PackagePath>MVVMHandler.dll</PackagePath>
-      <Modified>2015-04-10T21:15:32.767</Modified>
+      <Modified>2015-04-11T10:03:20.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.2\Redist\Debug\x64\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2014-01-22T13:16:27.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2015-04-11T07:43:19.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2015-04-11T07:43:19.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\SQLiteSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\SQLiteSample.xr.xml">
       <PackagePath>SQLiteSample.xr.xml</PackagePath>
       <Modified>2015-04-11T07:43:18.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\Visual Studio 2013\Projects\SQLiteRelations\SQLiteSample\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Samples\SQLiteSample\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-11T07:43:22.854</Modified>
+      <Modified>2015-04-11T10:03:50.658</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

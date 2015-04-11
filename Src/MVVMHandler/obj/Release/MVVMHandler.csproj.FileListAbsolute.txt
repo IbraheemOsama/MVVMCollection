@@ -1,0 +1,5 @@
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Src\MVVMHandler\bin\Release\MVVMHandler.dll
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Src\MVVMHandler\bin\Release\MVVMHandler.pdb
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Src\MVVMHandler\obj\Release\MVVMHandler.csprojResolveAssemblyReference.cache
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Src\MVVMHandler\obj\Release\MVVMHandler.dll
+C:\Users\ibraheem\Documents\GitHub\MVVMCollection\Src\MVVMHandler\obj\Release\MVVMHandler.pdb

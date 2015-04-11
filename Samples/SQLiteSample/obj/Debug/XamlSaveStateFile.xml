@@ -2,6 +2,6 @@
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\ibraheem\documents\visual studio 2013\projects\sqliterelations\sqlitesample\obj\debug\intermediatexaml\sqlitesample.exe" HashGuid="b32fb651-e12e-13fc-3973-3fef86b31dde" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\mvvmhandler\mvvmhandler\bin\debug\mvvmhandler.dll" HashGuid="65de9520-1269-545e-89e2-c1fc588e4008" />
+    <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\mvvmhandler.dll.1.0.2\lib\netcore45\mvvmhandler.dll" HashGuid="013759a6-866a-829d-25e2-3618a30c58ea" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

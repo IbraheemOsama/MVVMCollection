@@ -142,8 +142,9 @@
     <Reference Include="Microsoft.WindowsAzure.Mobile.Ext">
       <HintPath>..\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll</HintPath>
     </Reference>
-    <Reference Include="MVVMHandler">
-      <HintPath>..\..\..\..\GitHub\MVVMCollection\MVVMHandler\MVVMHandler\bin\Debug\MVVMHandler.dll</HintPath>
+    <Reference Include="MVVMHandler, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MVVMHandler.dll.1.0.2\lib\NETCore45\MVVMHandler.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll</HintPath>

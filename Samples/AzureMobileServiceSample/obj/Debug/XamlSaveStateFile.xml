@@ -3,7 +3,7 @@
     <LocalAssembly PathName="c:\users\ibraheem\documents\visual studio 2013\projects\sqliterelations\azuremobileservicesample\obj\debug\intermediatexaml\azuremobileservicesample.exe" HashGuid="0ceabe50-fe7b-3106-0aa4-0479ee8c151d" />
     <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\windowsazure.mobileservices.1.3.2\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
     <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\windowsazure.mobileservices.1.3.2\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="7304fbc3-905d-1c86-d6b2-d84e58fc17b3" />
-    <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\mvvmhandler\mvvmhandler\bin\debug\mvvmhandler.dll" HashGuid="65de9520-1269-545e-89e2-c1fc588e4008" />
+    <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\mvvmhandler.dll.1.0.2\lib\netcore45\mvvmhandler.dll" HashGuid="013759a6-866a-829d-25e2-3618a30c58ea" />
     <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
     <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
     <ReferenceAssembly PathName="c:\users\ibraheem\documents\github\mvvmcollection\samples\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />

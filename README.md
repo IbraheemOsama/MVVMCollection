@@ -58,7 +58,9 @@ To start using MVVM Collection in a project.
 
 # MVVM Collection Settings
 You have 2 options will creating a new MVVM Collection
+
 1) Add item to Model First then update the view ( Default option )
+
 2) Add to view first then update the model
 
 and to change the settings all you have to do is passing MVVMCollectionSettings to the NewMVVMCollection function

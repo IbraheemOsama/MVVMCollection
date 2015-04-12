@@ -81,9 +81,11 @@ You'll find to samples
 2) Microsoft Azure Mobile Service with MVVMCollection
 
 # Missing Features
-1) IOC Container for registering and resolving MVVMCollections of a certain Model Type
+1) IOC Container for registering and resolving MVVMCollections of a certain Model Type.
 
-2) Any great feature that you see it needs to be implemented :)
+2) Handling more complex scenarios not only CRUD operations.
+
+3) Any great feature that you see it needs to be implemented :)
 
 # Motivation
 I think it worth your effort to make a lot of developers happier, why MVVM Collection because in every project I developed I wasted a lot of time syncing between the UI and the Model. Thats why I start to think about MVVMCollection.
